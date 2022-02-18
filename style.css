@@ -1,0 +1,30 @@
+body {
+    background-color: dodgerblue;
+}
+
+h1 {
+    text-align: center;
+}
+.container {
+    background-color: violet;
+    border: 1px solid whitesmoke;
+    height: 275px;
+    width: 750px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#btn {
+    margin: 50px auto;
+    height: 50px;
+    width: 250px;
+    font-size: 22px;
+    background-color: gainsboro;
+}
+
+#output {
+    margin: 25px auto;
+    font-size: large;
+    color: rgb(233, 237, 243);
+    text-shadow: 10px 10px 20px  55px dodgerblue;
+}
